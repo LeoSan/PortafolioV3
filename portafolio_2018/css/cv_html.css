@@ -1,0 +1,212 @@
+.contEncabezado{
+	height: 100px;
+	width: auto; 
+}
+
+.contEncabezadoIzq{
+	float: left;
+	height: 100px; 
+	text-align: left;
+	width: 25%; 
+}
+
+.contEncabezadoCentro{
+	float: left;
+	height: 100px; 
+	text-align: center;
+	width: 50%; 
+}
+
+.contEncabezadoDere{
+	float: left;
+	height: 100px; 
+	text-align: right;
+	width: 25%; 
+}
+
+.estEncabezado{
+	height: 70px; 
+	width: auto;
+}
+
+.estEncabezadoA{
+	float: left;
+	height: 70px; 
+	width:50%;
+}
+
+.estTituloA{
+	font-size: 18px;
+	font-weight: bold;
+	
+}
+.estTituloB{
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.estTituloC{
+	color: #6B6C6D;
+	font-size: 12px;
+	font-weight: bold;
+
+}
+
+.conoEncabezado{
+	height: 810px; 
+	width: auto;
+}
+
+.contConociA{
+	color: #6B6C6D;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 5px;
+	height: 105px;
+	width: 100%;
+	width: auto;
+}
+
+.contConociB{
+	color: #6B6C6D;
+	font-size: 20px;
+	font-weight: bold;
+	height: 30px;
+	margin-top: 5px;
+	width: 100%;
+	
+}
+
+.conoImg{
+	text-align: center;
+}
+
+.conoTitulo{
+	font-size: 12px;
+	color: black; 
+	font-weight: bold;
+	text-align: center;
+	font-family: verdana;
+
+}
+
+.contConoTipoTitulo{
+   width: 105px;
+   height: 100px;
+   margin: 2px;
+   float: left;
+}
+
+.contConoTipo{
+   width: 95px;
+   height: 100px;
+   margin: 2px;
+   float: left;
+
+   border-radius: 25px;
+}
+
+.spanA{
+	margin-right: 60px;	
+}
+
+.spanB{
+	margin-right: 120px;	
+}
+
+.spanC{
+	margin-right: 50%;	
+}
+
+.spanD{
+	margin-left: 65%;	
+}
+
+
+.bordeAvanzado{
+	border: 3px solid #83B271; 	
+}
+
+.bordeMedio{
+	border: 3px solid #ABCB89; 	
+}
+
+.bordeBasico{
+	border: 3px solid #D2EA9B; 	
+}
+
+
+.contConoNivel{
+	height: 30px;
+	font-size: 18px;
+	font-weight: bold;
+	text-transform:uppercase;
+	letter-spacing: 1em;
+	float:left;
+	color: #6B6C6D; 
+	text-align: center;
+}
+
+.nivelAvanzado{
+	background-color: #83B271;
+	width: 25%; 
+}
+
+.nivelMedio{
+	background-color: #ABCB89; 
+	width: 50%; 
+}
+
+.NivelBasico{
+	background-color: #D2EA9B; 
+	width: 25%; 
+}
+
+.expeEncabezado{
+	height: 150px; 
+	width: auto;
+}
+
+.contExpeA{
+	color: #6B6C6D;
+	float: left;
+	font-size: 14px;
+	font-weight: bold;
+	height: 90px;
+	margin: 5px;
+	width: auto;
+}
+
+
+.habiEncabezado{
+	height: 190px; 
+	width: auto;
+}
+
+.contHabiA{
+	color: #6B6C6D;
+	float: left;
+	font-size: 14px;
+	font-weight: bold;
+	height: 90px;
+	margin: 5px;
+	width: 16%;
+
+
+}
+
+.cvFoorter{
+	background-color: #76C7C0; 
+	height: 50px; 
+	padding: 5px;
+	text-align:left;
+	width: auto; 
+}
+
+.cvFooterTotuloA{
+	color: white;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+
